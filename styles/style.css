@@ -608,7 +608,7 @@ html {
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    background: linear-gradient(#14ff39, #ffeb3b, #ff00e0);
+    background: linear-gradient(#5314ff, #7700ff, rgb(255, 106, 106));
     animation: animate 50s linear infinite;
     display: flex;
     align-items: center;
