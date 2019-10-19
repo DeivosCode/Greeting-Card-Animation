@@ -625,7 +625,7 @@ html {
     }
 }
 
-.loader span {
+.loader__blure {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -634,19 +634,19 @@ html {
     animation: animate 10s linear infinite;
 }
 
-.loader span:nth-child(1) {
+.loader .loader__blur:nth-child(1) {
     filter: blur(5px);
 }
 
-.loader span:nth-child(2) {
+.loader .loader__blur:nth-child(2) {
     filter: blur(10px);
 }
 
-.loader span:nth-child(3) {
+.loader .loader__blue:nth-child(3) {
     filter: blur(25px);
 }
 
-.loader span:nth-child(4) {
+.loader .loader__blur:nth-child(4) {
     filter: blur(50px);
 }
 
