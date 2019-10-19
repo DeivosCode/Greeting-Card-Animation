@@ -609,7 +609,7 @@ html {
     height: 500px;
     border-radius: 50%;
     background: linear-gradient(#14ff39, #ffeb3b, #ff00e0);
-    animation: animate 10s linear infinite;
+    animation: animate 50s linear infinite;
     display: flex;
     align-items: center;
     margin: 0 auto;
